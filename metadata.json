@@ -1,0 +1,6 @@
+{
+  "name": "ActivityHub",
+  "description": "ActivityHub all-in-one daily SaaS platform for SMMEs and SMEs featuring monthly subscriptions, prebuilt quoting & invoicing templates, custom logo & business branding, and an automated pricing calculator with 15% VAT & No-VAT options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
